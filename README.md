@@ -86,24 +86,32 @@ just remember that you can't purchase success!
 
 # Curriculum
 
-- [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core security](#core-security)
-  - [Core applications](#core-applications)
-  - [Core ethics](#core-ethics)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced information security](#advanced-information-security)
-  - [Advanced math](#advanced-math)
-- [Final project](#final-project)
+- [Contents](#contents)
+- [Summary](#summary)
+- [Community](#community)
+- [Curriculum](#curriculum)
+  - [Prerequisites](#prerequisites)
+  - [Intro CS](#intro-cs)
+  - [Core CS](#core-cs)
+    - [Core programming](#core-programming)
+    - [Core math](#core-math)
+    - [CS Tools](#cs-tools)
+    - [Core systems](#core-systems)
+    - [Core theory](#core-theory)
+    - [Core security](#core-security)
+    - [Core applications](#core-applications)
+    - [Core ethics](#core-ethics)
+  - [Advanced CS](#advanced-cs)
+    - [Advanced programming](#advanced-programming)
+    - [Advanced systems](#advanced-systems)
+    - [Advanced theory](#advanced-theory)
+    - [Advanced Information Security](#advanced-information-security)
+    - [Advanced math](#advanced-math)
+  - [Final project](#final-project)
+  - [Congratulations](#congratulations)
+- [Code of conduct](#code-of-conduct)
+  - [How to show your progress](#how-to-show-your-progress)
+- [Team](#team)
 
 ---
 
@@ -126,7 +134,7 @@ This course will introduce you to the world of computer science and programming.
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/jvchSm9)
+✅[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/jvchSm9)
 
 ## Core CS
 
